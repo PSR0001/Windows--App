@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\MainForm.h(108,1): error C2843: 'windowswebbrowser::MainForm::webBrowser1': cannot take the address of a non-static data member or method of a managed type
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\MainForm.h(108,1): error C3364: 'System::Windows::Forms::WebBrowserDocumentCompletedEventHandler': invalid argument for delegate constructor; delegate target needs to be a pointer to a member function
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\MainForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'

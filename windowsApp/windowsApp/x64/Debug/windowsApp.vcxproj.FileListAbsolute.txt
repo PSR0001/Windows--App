@@ -1,0 +1,4 @@
+C:\Users\91974\source\repos\windowsApp\windowsApp\x64\Debug\windowsApp.vcxproj.AssemblyReference.cache
+C:\Users\91974\source\repos\windowsApp\windowsApp\x64\Debug\windowsApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\91974\source\repos\windowsApp\windowsApp\x64\Debug\windowsApp.MainForm.resources
+C:\Users\91974\source\repos\windowsApp\windowsApp\x64\Debug\windowsApp.vcxproj.GenerateResource.cache

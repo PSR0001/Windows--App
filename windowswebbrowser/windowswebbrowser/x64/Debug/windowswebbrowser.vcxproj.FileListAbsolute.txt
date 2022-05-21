@@ -1,0 +1,4 @@
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\x64\Debug\windowswebbrowser.vcxproj.AssemblyReference.cache
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\x64\Debug\windowswebbrowser.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\x64\Debug\windowswebbrowser.MainForm.resources
+C:\Users\91974\source\repos\windowswebbrowser\windowswebbrowser\x64\Debug\windowswebbrowser.vcxproj.GenerateResource.cache
